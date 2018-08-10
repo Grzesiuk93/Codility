@@ -1,0 +1,2 @@
+# Codility
+Exercises from Codility.
